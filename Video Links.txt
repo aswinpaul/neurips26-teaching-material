@@ -1,0 +1,4 @@
+Introductory Video to Active Inference: https://youtu.be/2nSQ09TRUdY
+
+Interactive Python Demonstration for setting up an Active Inference Agent in pymdp: https://youtu.be/2weXMtjK_-8
+
